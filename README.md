@@ -1,5 +1,5 @@
 # Paski wypłaty
-Prosty skypt, który przekształca zbiorczy plik z paskami wypłat wygenerowanymi w programie enova365 na pojedyńcze, zabezpieczone hasłem(nr pesel pracownika) paski gotowe do wysłania e-mailem.
+Prosty skypt, który przekształca zbiorczy plik z paskami wypłat wygenerowanymi w programie enova365 na pojedyńcze, zabezpieczone hasłem (nr pesel pracownika) paski gotowe do wysłania e-mailem.
 
 Można podać nazwę pliku w linii komend, lub bezpośrednio po uruchomieniu skryptu.
 
